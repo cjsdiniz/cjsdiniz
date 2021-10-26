@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python and GO (GOlang)
 - 📫 How to reach me: cjsdiniz@outlook.com
 [![](https://img.shields.io/badge/Perfil-Rocketseat-blueviolet)](https://app.rocketseat.com.br/me/cjsdiniz-1624290006982)
-[![](./images/LI-Logo.png)](https://www.linkedin.com/in/cjdiniz/)
+<!-- [![](./images/LI-Logo.png)](https://www.linkedin.com/in/cjdiniz/) -->
