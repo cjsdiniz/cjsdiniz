@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: cjsdiniz@outlook.com
 ---
 [![](https://img.shields.io/badge/-Rocketseat-blueviolet)](https://app.rocketseat.com.br/me/cjsdiniz-1624290006982)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat&labelColor=0077b5&logo=Linkedin%Color=white)](https://www.linkedin.com/in/cjdiniz)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&labelColor=0077b5&logo=linkedin&Color=white)](https://www.linkedin.com/in/cjdiniz)
