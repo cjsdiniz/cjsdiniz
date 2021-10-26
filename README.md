@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 ---
 [![](https://img.shields.io/badge/-Rocketseat-blueviolet)](https://app.rocketseat.com.br/me/cjsdiniz-1624290006982)
 <!-- [![](./images/LI-Logo.png)](https://www.linkedin.com/in/cjdiniz/) -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin%Color=white)](https://www.linkedin.com/in/cjdiniz)
