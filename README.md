@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Rocketseat-blueviolet?style=flat)](https://app.rocketseat.com.br/me/cjsdiniz-1624290006982)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&labelColor=0077b5&logo=linkedin&Color=white)](https://www.linkedin.com/in/cjdiniz)
 ***
-[![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=cjsdiniz&hide=stars,prs,issues&show_icons=true&theme=omni )](https://github.com/anuraghazra/github-readme-stats))
+[![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=cjsdiniz&hide=stars,prs,issues&show_icons=true&theme=graywhite )](https://github.com/anuraghazra/github-readme-stats))
 
