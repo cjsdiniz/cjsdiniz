@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Web Development (HTML+CSS+JavaScript)
-- 🌱 I’m currently learning Python and GO (GOlang)
+- 🌱 I’m currently learning Python and GO (GOLang)
 - 📫 How to reach me: cjsdiniz@outlook.com
 ---
 [![](https://img.shields.io/badge/-Rocketseat-blueviolet?style=flat)](https://app.rocketseat.com.br/me/cjsdiniz-1624290006982)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&labelColor=0077b5&logo=linkedin&Color=white)](https://www.linkedin.com/in/cjdiniz)
+***
 [![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=cjsdiniz)](https://github.com/cjsdiniz)
+
