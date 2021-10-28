@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 ---
 [![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=cjsdiniz&hide=stars,prs,issues&show_icons=true&theme=default )](https://github.com/anuraghazra/github-readme-stats)
 ---
-![](https://komarev.com/ghpvc/?username=cjsdiniz)
+![Profile views](https://komarev.com/ghpvc/?username=cjsdiniz)
