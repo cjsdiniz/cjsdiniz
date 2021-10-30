@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 [![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=cjsdiniz&hide=stars,prs,issues&show_icons=true&theme=default )](https://github.com/anuraghazra/github-readme-stats)
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=cjsdiniz)
+
+![](https://hit.yhype.me/github/profile?user_id=67067863)
