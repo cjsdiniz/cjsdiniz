@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&labelColor=0077b5&logo=linkedin&Color=white)](https://www.linkedin.com/in/cjdiniz)
 ---
 [![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=cjsdiniz&hide=stars,prs,issues&show_icons=true&theme=default )](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjsdiniz)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=cjsdiniz)
 
