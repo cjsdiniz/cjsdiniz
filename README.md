@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Web Development [HTML](https://en.wikipedia.org/wiki/HTML)+[CSS](https://en.wikipedia.org/wiki/CSS)+[JavaScript](https://en.wikipedia.org/wiki/JavaScript) 
-- 🌱 I’m currently learning [Python](https://www.python.org/) and [GO (GOLang)](https://golang.org/)
+- 🔭 I’m currently working on Web Development [HTML](https://en.wikipedia.org/wiki/HTML)+[CSS](https://en.wikipedia.org/wiki/CSS)+[Python](https://www.python.org/) 
+- 🌱 I’m currently learning [GO (GOLang)](https://golang.org/)
 - 📫 How to reach me: cjsdiniz@outlook.com
 ---
 [![](https://img.shields.io/badge/-Rocketseat-blueviolet?style=flat)](https://app.rocketseat.com.br/me/cjsdiniz-1624290006982)
