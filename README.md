@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Development [HTML+CSS+JavaScript](https://www.w3schools.com/) and [Python](https://www.python.org/)
-- 🌱 I’m currently learning Python and GO (GOlang)
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Web Development [HTML](https://en.wikipedia.org/wiki/HTML)+[CSS](https://en.wikipedia.org/wiki/CSS)+[Python](https://www.python.org/) 
-- 🌱 I’m currently learning [GO (GOLang)](https://golang.org/)
+- 🌱 I’m currently learning [AI](https://en.wikipedia.org/wiki/Artificial_intelligence)
 - 📫 How to reach me: cjsdiniz@outlook.com
 ---
 [![](https://img.shields.io/badge/-Rocketseat-blueviolet?style=flat)](https://app.rocketseat.com.br/me/cjsdiniz-1624290006982)
@@ -31,5 +31,3 @@ Here are some ideas to get you started:
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=cjsdiniz)
-
-![](https://hit.yhype.me/github/profile?user_id=67067863)
